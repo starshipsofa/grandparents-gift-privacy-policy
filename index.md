@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Privacy Policy - Grandparents Gift
+title: Privacy Policy - Grandparents Gifts
 ---
 
 # Privacy Policy
 
-**Grandparents Gift**
+**Grandparents Gifts**
 Last updated: 15 March 2026
 
 ---
 
 ## Who We Are
 
-Grandparents Gift is developed by Tony C Smith, based in the United Kingdom.
+Grandparents Gifts is developed by Tony C Smith, based in the United Kingdom.
 This policy explains how the app handles your data.
 
 ---
 
 ## What Data the App Uses
 
-Everything you create in Grandparents Gift stays on your device and in your personal iCloud account. We never see, collect, or have access to your content.
+Everything you create in Grandparents Gifts stays on your device and in your personal iCloud account. We never see, collect, or have access to your content.
 
 The app allows you to create and store:
 
@@ -71,7 +71,7 @@ You can change these permissions at any time in your device Settings.
 
 ## In-App Purchases
 
-Grandparents Gift offers an optional premium subscription managed entirely through Apple's App Store. We do not collect or store any payment information. All billing is handled by Apple.
+Grandparents Gifts offers an optional premium subscription managed entirely through Apple's App Store. We do not collect or store any payment information. All billing is handled by Apple.
 
 ---
 
@@ -87,7 +87,7 @@ When you invite a co-grandparent or share memories with a grandchild's device, t
 
 ## Children's Privacy
 
-Grandparents Gift is designed for grandparents to create memories for their grandchildren. The app does not collect any personal data from children. All content is created and managed by the grandparent, and no data is sent to us or any third party.
+Grandparents Gifts is designed for grandparents to create memories for their grandchildren. The app does not collect any personal data from children. All content is created and managed by the grandparent, and no data is sent to us or any third party.
 
 ---
 
