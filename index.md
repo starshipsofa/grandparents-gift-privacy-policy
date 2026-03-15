@@ -114,7 +114,7 @@ If we make any changes to this privacy policy, the updated version will be avail
 If you have any questions about this privacy policy, please contact:
 
 **Tony C Smith**
-📧 grandparentsgiftapp@gmail.com
+📧 contact@tonycsmith.com
 
 ---
 
